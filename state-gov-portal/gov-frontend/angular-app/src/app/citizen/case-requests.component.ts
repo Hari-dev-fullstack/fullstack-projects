@@ -1,1 +1,0 @@
-// Citizen case requests component placeholder

@@ -1,1 +1,0 @@
-// appointment-service main class placeholder

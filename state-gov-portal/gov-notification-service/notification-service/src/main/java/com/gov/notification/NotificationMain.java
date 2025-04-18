@@ -1,1 +1,0 @@
-// notification-service main class placeholder
