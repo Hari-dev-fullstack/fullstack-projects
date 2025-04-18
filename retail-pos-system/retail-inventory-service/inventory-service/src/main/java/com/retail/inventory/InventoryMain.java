@@ -1,0 +1,1 @@
+// inventory-service main class placeholder

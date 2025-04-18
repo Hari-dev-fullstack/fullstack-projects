@@ -1,0 +1,1 @@
+// product-service main class placeholder

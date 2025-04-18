@@ -1,0 +1,1 @@
+// Angular main component
